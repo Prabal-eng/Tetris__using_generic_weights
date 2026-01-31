@@ -1,6 +1,4 @@
-Here is a unified README.md file documenting both the game executable (t.py) and the training system (trainer.py).
-
-AI Battle Tetris
+AI Tetris
 This project consists of two main components: a fully playable Tetris Game (t.py) featuring Human vs. AI capabilities, and a Genetic Algorithm Trainer (trainer.py) used to evolve and optimize the AI's strategy.
 
 Part 1: The Game (t.py)
